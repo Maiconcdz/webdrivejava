@@ -41,7 +41,11 @@ SeleniumJava: [SeleniumJava](https://mvnrepository.com/artifact/org.seleniumhq.s
  
  ![Executando teste](https://archive.org/download/IntelliJRun/IntelliJRun.png)
  
- 8. 
+ 8. Apos alguns segundos o teste será retornado.
+ 
+ ![Executando teste](https://archive.org/download/IntelliJPassed/IntelliJPassed.png)
+ 
+ 9. Teste Finalizado.
  
  
  
