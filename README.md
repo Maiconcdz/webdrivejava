@@ -1,7 +1,7 @@
 # [](https://github.com/ValchanOficial/automation-practice)Automation Practice - Automação de Teste de Software
 Site Testado: Automation Practice - My Store - [ www.automationpractice.com]( www.automationpractice.com)
 
-Donwload do projeto: [Automation Practice](https://github.com/Maiconcdz/repositorioSeleniumjUnit.git).
+Donwload do projeto: [Automation Practice](https://github.com/Maiconcdz/webdrivejava.git).
 
 Softwares necessários:
 IDE: [IntelliJ](https://www.jetbrains.com/idea/download/#section=mac)
@@ -23,9 +23,13 @@ SeleniumJava: [SeleniumJava](https://mvnrepository.com/artifact/org.seleniumhq.s
 10. Selecione um método de pagamento e prossiga.
 11. Confirme a compra e valide se foi finalizada com sucesso.
 
-**Preparação do ambiente - Passo a Passo:**
+**Preparação do ambiente e clonagem do projeto - Passo a Passo:**
  1. Baixe e instale o IntelliJ;
  2. Baixe e instale o Java: JRE e JDK; 
  3. Baixe e instale o ChromeDriver;
  4. Para verificar a versão do JAVA, vá ao CMD (Prompt de comando) e digite "java -version"
- 5. Apos os procedimentos acima, abrir o IntelliJ, e co
+ 5. Apos os procedimentos acima, abrir o intelliJ.
+ 6. Apos o programa aberto clicar em File -> New -> Project from version control -> GIT.
+ 7. Irá aparecer uma janela chamada Clone Repository, bastará colar o link do projeto e em seguida clicar em CLONE.
+ 8. O caso de teste está na pasta src/test/java/testes/informacoesUsuarioTest
+ 9. Lembre-se de abrir o arquivo pom.xml
