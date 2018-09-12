@@ -39,7 +39,7 @@ SeleniumJava: [SeleniumJava](https://mvnrepository.com/artifact/org.seleniumhq.s
  6. Aguarde o total carregamento do projeto
  7. Clique no menu Run que está localizado na parte superior do IntelliJ
  
- ![Executando teste](https://archive.org/details/IntelliJRun)
+ ![Executando teste](https://archive.org/download/IntelliJRun/IntelliJRun.png)
  
  8. 
  
