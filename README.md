@@ -26,7 +26,7 @@ SeleniumJava: [SeleniumJava](https://mvnrepository.com/artifact/org.seleniumhq.s
 **Preparação do ambiente e clonagem do projeto - Passo a Passo:**
  1. Baixe e instale o IntelliJ;
  2. Baixe e instale o Java: JRE e JDK; 
- 3. Baixe e instale o ChromeDriver;
+ 3. Baixe e instale o ChromeDriver; Lembre-se do local onde extraiu o Chromedriver.exe
  4. Para verificar a versão do JAVA, vá ao CMD (Prompt de comando) e digite "java -version"
  
 
@@ -35,17 +35,21 @@ SeleniumJava: [SeleniumJava](https://mvnrepository.com/artifact/org.seleniumhq.s
  2. Apos o programa aberto clicar em File -> New -> Project from version control -> GIT.
  3. Irá aparecer uma janela chamada Clone Repository, bastará colar o link do projeto e em seguida clicar em CLONE.
  4. O caso de teste está na pasta src/test/java/testes/informacoesUsuarioTest
- 5. Lembre-se de abrir o arquivo pom.xml
- 6. Aguarde o total carregamento do projeto
- 7. Clique no menu Run que está localizado na parte superior do IntelliJ
+ 5. Com o script aberto copie o caminho onde extraiu o chromedriver.exe e cole no script dentro do IntelliJ.
+ 
+ ![AlterandoCaminho](https://archive.org/download/IntelliJChrome/IntelliJChrome.png)
+  
+ 6. Lembre-se de abrir o arquivo pom.xml
+ 7. Aguarde o total carregamento do projeto
+ 8. Clique no menu Run que está localizado na parte superior do IntelliJ
  
  ![Executando teste](https://archive.org/download/IntelliJRun/IntelliJRun.png)
  
- 8. Apos alguns segundos o teste será retornado.
+ 9. Apos alguns segundos o teste será retornado.
  
  ![Executando teste](https://archive.org/download/IntelliJPassed/IntelliJPassed.png)
  
- 9. Teste Finalizado.
+ 10. Teste Finalizado.
  
  
  
